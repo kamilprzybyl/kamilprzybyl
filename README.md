@@ -4,6 +4,6 @@
 
 <!---I'm Kamil, another 22 years old dude with love for coding.<br />Here are some of my 42 projects.--->
 
-My name is Kamil. I'm on my way to becoming a software engineer.<br />Here are some of my 42 projects.
+My name is Kamil. I'm on my way to becoming a software engineer.<br />Here are some of my favorite projects.
 
 <!---Currently growing my skillset in Machine Learning and Data Science.--->
