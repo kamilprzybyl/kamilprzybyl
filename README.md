@@ -4,6 +4,4 @@
 
 <!---I'm Kamil, another 22 years old dude with love for coding.<br />Here are some of my 42 projects.--->
 
-I'm Kamil. Currently on my way to becoming a software engineer.<br />Here are some of my favorite projects.
-
-<!---Currently growing my skillset in Machine Learning and Data Science.--->
+Hi there, I'm Kamil. I'm a 42 Heilbronn trainee and a fresh Cloud Enginerr at CAMAO TEC. You'll find here mostly 42 Heilbronn curriculum projects.
